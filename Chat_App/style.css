@@ -1,0 +1,29 @@
+.container{
+	border: 1px solid;
+	width: 400px;
+	margin: auto;
+}
+.container .inputs{
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+.container .inputs label{
+	font-size: 19px;
+}
+.container .inputs input{
+	font-size: 19px;
+	outline: none;
+	width: 95%;
+}
+.container .submit input{
+	width: 80px;
+	padding: 7px 9px;
+	margin-left: 39%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.container .already-reg{
+	font-family: verdana;
+	font-size: 14px;
+	text-align: center;
+}
